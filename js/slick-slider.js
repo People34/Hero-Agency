@@ -1,3 +1,3 @@
-$('.header__slider').slick({
+$('.header__slider-inner').slick({
     rtl: true
   });
